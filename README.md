@@ -14,7 +14,7 @@ Dataset obtained from Kaggle:
 
 Loan Default Prediction Dataset
 
-* Size: 204,277 observations
+* Size: 255,347 entries, 18 columns
 * Target Variable: Default
 
   * 0 = No Default
@@ -22,8 +22,8 @@ Loan Default Prediction Dataset
 
 ### Class Distribution
 
-* No Default: 180,632 (88.4%)
-* Default: 23,645 (11.6%)
+* No Default: 225 694 (88.4%)
+* Default: 29 653 (11.6%)
 
 ---
 
@@ -47,10 +47,13 @@ Loan Default Prediction Dataset
 
   * Accuracy Score
   * Confusion Matrix
-  * Classification Report
-* Visualized the decision tree structure
 * Investigated the impact of class imbalance on model predictions
 * Applied class weighting to improve the identification of default cases
+* Classification Report
+* Visualized the decision tree structure
+* Visualised feature importance
+
+
 
 ---
 

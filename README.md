@@ -47,9 +47,9 @@ Loan Default Prediction Dataset
 
   * Accuracy Score
   * Confusion Matrix
+  * Classification report
 * Investigated the impact of class imbalance on model predictions
 * Applied class weighting to improve the identification of default cases
-* Classification Report
 * Visualized the decision tree structure
 * Visualised feature importance
 

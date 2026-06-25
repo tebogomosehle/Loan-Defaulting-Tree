@@ -107,11 +107,11 @@ Loan Default Prediction Dataset
 * High accuracy does not necessarily indicate a useful classification model
 * Confusion matrices and classification reports provide deeper insights than accuracy alone
 * Class imbalance can significantly affect model performance
-* Class weighting improves the detection of minority classes in classification problems
-* In credit risk modelling, recall for default cases is often more important than overall accuracy
+
 
   👤 Author
 Tebogo Mosehle
 
 📫 [tebogomosehle10@gmail.com]
+
 Linkedin: www.linkedin.com/in/tebogo-mosehle-1806b319b
